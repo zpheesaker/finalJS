@@ -1,0 +1,19 @@
+nav {
+    background-color: #CFD8DC;
+    color: white;
+    padding: 10px;
+    font-family: Arial;
+    text-align: center;
+    list-style: none;
+    margin: 0 2px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+p {
+    background-color: #CFD8DC;
+    text-align: center;
+}
+

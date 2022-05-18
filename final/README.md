@@ -6,4 +6,4 @@
 |3|Every photo on the website was taken by me, or is of me| 
 |4|The three pages: mountains, adventure, and family have photo galleries that allow users to click though the photos, or allow them to automatically go through.| 
 |5|Photos were taken in Wyoming, California, and Colorado.
--To start seeing the galleries, just select 'Family', 'Adventures', or 'Mountains' at the top of the screen. |
+|6|To start seeing the galleries, just select 'Family', 'Adventures', or 'Mountains' at the top of the screen. |

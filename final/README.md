@@ -1,8 +1,7 @@
 ### About this Project
 
-This GitHub Page will be an application that talks about me, my interests, and my future goals.
-
-## Useful Commands
-
-npm start - start local server
-npm run deploy - deploy react page to github
+*This react application is a showcase of some photographs of my family, my adventures, and some mountain scenery.
+*The app has a header component which allows for users to navigate around the site, as well as a footer component that allows them to reach me via email.
+*Every photo on the website was taken by me, or is of me. 
+*The three pages: mountains, adventure, and family have photo galleries that allow users to click though the photos, or allow them to automatically go through. 
+*Places in photos range from Grand Junction, Colorado to the Wind River Range in Wyoming and several other spots in between. 

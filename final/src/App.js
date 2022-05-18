@@ -6,6 +6,7 @@ import Family from './components/family'
 import Adventures from './components/adventures'
 import Header from './components/header'
 import './components/main.css'
+import SimpleImageSlider from 'react-simple-image-slider'
 
 
 import {BrowserRouter, Routes, Route, Link} from 'react-router-dom'

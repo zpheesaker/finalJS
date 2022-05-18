@@ -6,7 +6,7 @@ import advArr from './advImg'
 
 function Adventures() {
     return (
-        <div>
+        <div class = "center">
             <SimpleImageSlider
                 width={896}
                 height={504}

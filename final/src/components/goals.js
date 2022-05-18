@@ -6,7 +6,7 @@ import goalArr from './goalsImg'
 
 function Goals() {
     return (
-        <div>
+        <div class="center">
             <SimpleImageSlider
                 width={896}
                 height={504}

@@ -6,7 +6,7 @@ import famArr from './familyImg'
 
 function Family() {
     return (
-        <div>
+        <div class="center">
             <SimpleImageSlider
             width={896}
             height={504}

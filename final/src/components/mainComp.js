@@ -1,12 +1,15 @@
 import React from 'react'
 import Header from './headerComp';
 import Footer from './footerComp';
+import Home from './homeComp';
+import About from './aboutComp';
 
 function Main (){
     return(
         <React.Fragment>
             <Header />
-            <div>Hello World</div>
+            <Home/>
+            <About/>
             <Footer />
         </React.Fragment>
         

@@ -8,8 +8,8 @@ function Goals() {
     return (
         <div class="center">
             <SimpleImageSlider
-                width={896}
-                height={504}
+                width={890}
+                height={500}
                 images={goalArr}
                 showBullets={true}
                 showNavs={true}

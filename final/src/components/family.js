@@ -6,17 +6,19 @@ import famArr from './familyImg'
 
 function Family() {
     return (
-        <div class="center">
-            <SimpleImageSlider
-            width={896}
-            height={504}
-            images={famArr}
-            showBullets = {true}
-            showNavs={true}
-            autoPlay={true}
-            autoPlayDelay={4.0}
-            />
-        </div> 
+
+            <div class="center">
+                <SimpleImageSlider
+                    width={896}
+                    height={504}
+                    images={famArr}
+                    showBullets={true}
+                    showNavs={true}
+                    autoPlay={true}
+                    autoPlayDelay={4.0}
+                />
+                
+            </div>     
 
     );
 }

@@ -4,9 +4,10 @@ body {
 }
 
 .center{    
-    border: beige;
+    
     display: flex;
     justify-content: center;
     
 }
+
 

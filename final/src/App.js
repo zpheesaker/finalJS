@@ -1,10 +1,10 @@
-
-
+import React from 'react'
+import Main from './components/bodyComp'
 
 function App() {
   return (
     <div className="App">
-      final test
+      <Main></Main>
     </div>
   );
 }

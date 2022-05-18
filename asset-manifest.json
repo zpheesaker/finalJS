@@ -1,25 +1,29 @@
 {
   "files": {
-    "main.css": "/finalJS/static/css/main.4ac5ea48.css",
-    "main.js": "/finalJS/static/js/main.a71476be.js",
+    "main.css": "/finalJS/static/css/main.64c3b4f7.css",
+    "main.js": "/finalJS/static/js/main.d677523a.js",
     "static/js/787.c03eb826.chunk.js": "/finalJS/static/js/787.c03eb826.chunk.js",
-    "static/media/adv2.jpg": "/finalJS/static/media/adv2.3fd4f0a84751b9471300.jpg",
-    "static/media/adv4.jpg": "/finalJS/static/media/adv4.00d1d1f41eaaf6c0757b.jpg",
-    "static/media/family3.jpg": "/finalJS/static/media/family3.cbb10a50fb9de7f73040.jpg",
+    "static/media/goal4.jpg": "/finalJS/static/media/goal4.17b8574de3a8e539cbd6.jpg",
+    "static/media/family4.jpg": "/finalJS/static/media/family4.7fdcf2223e632ccf10d1.jpg",
+    "static/media/family1.jpg": "/finalJS/static/media/family1.4677887ee85b3ca73635.jpg",
+    "static/media/adv4.jpg": "/finalJS/static/media/adv4.b16b5fc59e11862b02b1.jpg",
+    "static/media/family3.jpg": "/finalJS/static/media/family3.403e2f10db2aa8f31fac.jpg",
+    "static/media/goal2.jpg": "/finalJS/static/media/goal2.b16f3f8d8fec9903b737.jpg",
+    "static/media/adv1.jpg": "/finalJS/static/media/adv1.ea462acd165a4e932684.jpg",
+    "static/media/adv5.jpg": "/finalJS/static/media/adv5.f83e2a9764522225f492.jpg",
+    "static/media/adv2.jpg": "/finalJS/static/media/adv2.c5a635647f27718b4209.jpg",
+    "static/media/adv3.jpg": "/finalJS/static/media/adv3.213070d4bbd9e40f6443.jpg",
+    "static/media/goal3.jpg": "/finalJS/static/media/goal3.b56a40f862170525ff30.jpg",
+    "static/media/goal1.jpg": "/finalJS/static/media/goal1.1ef83cbab40cf90c5840.jpg",
+    "static/media/family2.jpg": "/finalJS/static/media/family2.4cf882a1619889c66efd.jpg",
     "static/media/family5.jpg": "/finalJS/static/media/family5.a610bfceb2d4250ed73f.jpg",
-    "static/media/family2.jpg": "/finalJS/static/media/family2.49aa95eb58763b2b6a5b.jpg",
-    "static/media/family1.jpg": "/finalJS/static/media/family1.f90a1d697d5640bb824b.jpg",
-    "static/media/adv1.jpg": "/finalJS/static/media/adv1.e3bd5c5548646187acc0.jpg",
-    "static/media/adv3.jpg": "/finalJS/static/media/adv3.92fea1badfc6a28dba3a.jpg",
-    "static/media/adv5.jpg": "/finalJS/static/media/adv5.fb0199e0d49ba1c53218.jpg",
-    "static/media/family4.jpg": "/finalJS/static/media/family4.de67b27f9c7acbdcfe43.jpg",
     "index.html": "/finalJS/index.html",
-    "main.4ac5ea48.css.map": "/finalJS/static/css/main.4ac5ea48.css.map",
-    "main.a71476be.js.map": "/finalJS/static/js/main.a71476be.js.map",
+    "main.64c3b4f7.css.map": "/finalJS/static/css/main.64c3b4f7.css.map",
+    "main.d677523a.js.map": "/finalJS/static/js/main.d677523a.js.map",
     "787.c03eb826.chunk.js.map": "/finalJS/static/js/787.c03eb826.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ac5ea48.css",
-    "static/js/main.a71476be.js"
+    "static/css/main.64c3b4f7.css",
+    "static/js/main.d677523a.js"
   ]
 }

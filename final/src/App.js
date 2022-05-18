@@ -22,6 +22,7 @@ function App() {
           <Route path="/goals" element={<Goals />} />
         </Routes>
       </BrowserRouter>
+      <div><Footer /></div>
     </div>
   );
 }

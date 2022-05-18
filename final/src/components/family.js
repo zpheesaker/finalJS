@@ -13,6 +13,8 @@ function Family() {
             images={famArr}
             showBullets = {true}
             showNavs={true}
+            autoPlay={true}
+            autoPlayDelay={4.0}
             />
         </div> 
 

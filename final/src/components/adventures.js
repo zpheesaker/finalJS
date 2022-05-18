@@ -13,6 +13,8 @@ function Adventures() {
                 images={advArr}
                 showBullets={true}
                 showNavs={true}
+                autoPlay={true}
+                autoPlayDelay={4.0}
             />
         </div>
 

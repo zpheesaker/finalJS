@@ -8,8 +8,8 @@ function Adventures() {
     return (
         <div class = "center">
             <SimpleImageSlider
-                width={896}
-                height={504}
+                width={890}
+                height={500}
                 images={advArr}
                 showBullets={true}
                 showNavs={true}

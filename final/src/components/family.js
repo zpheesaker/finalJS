@@ -9,8 +9,8 @@ function Family() {
 
             <div class="center">
                 <SimpleImageSlider
-                    width={896}
-                    height={504}
+                    width={890}
+                    height={500}
                     images={famArr}
                     showBullets={true}
                     showNavs={true}

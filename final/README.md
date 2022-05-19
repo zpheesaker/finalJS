@@ -7,3 +7,6 @@
 |4|The three pages: mountains, adventure, and family have photo galleries that allow users to click though the photos, or allow them to automatically go through.| 
 |5|Photos were taken in Wyoming, California, and Colorado.
 |6|To start seeing the galleries, just select 'Family', 'Adventures', or 'Mountains' at the top of the screen. |
+|7|Deployed URL: https://zpheesaker.github.io/finalJS/|
+|8|Unit tests: https://github.com/zpheesaker/finalJS/tree/main/final/src/components/tests|
+|9|Components/CSS: https://github.com/zpheesaker/finalJS/tree/main/final/src/components|
